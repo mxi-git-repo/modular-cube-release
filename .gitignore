@@ -1,0 +1,45 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# Cache
+.cache/
+.tmp/
+temp/
+
+# Testing
+coverage/
+*.lcov
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+*.code-workspace
+
+# Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Misc
+*.log
+*.bak
